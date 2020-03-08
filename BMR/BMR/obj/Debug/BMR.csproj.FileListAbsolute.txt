@@ -1,0 +1,9 @@
+C:\Users\Stacja\Documents\Jerry\Projekt1\BMR\BMR\bin\Debug\BMR.exe.config
+C:\Users\Stacja\Documents\Jerry\Projekt1\BMR\BMR\bin\Debug\BMR.exe
+C:\Users\Stacja\Documents\Jerry\Projekt1\BMR\BMR\bin\Debug\BMR.pdb
+C:\Users\Stacja\Documents\Jerry\Projekt1\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+C:\Users\Stacja\Documents\Jerry\Projekt1\BMR\BMR\obj\Debug\BMR.Form1.resources
+C:\Users\Stacja\Documents\Jerry\Projekt1\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+C:\Users\Stacja\Documents\Jerry\Projekt1\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+C:\Users\Stacja\Documents\Jerry\Projekt1\BMR\BMR\obj\Debug\BMR.exe
+C:\Users\Stacja\Documents\Jerry\Projekt1\BMR\BMR\obj\Debug\BMR.pdb
