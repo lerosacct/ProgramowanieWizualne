@@ -42,6 +42,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.g = new System.Windows.Forms.GroupBox();
             this.result = new System.Windows.Forms.TextBox();
+            this.button2 = new System.Windows.Forms.Button();
             this.g.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -69,19 +70,17 @@
             // m
             // 
             this.m.AutoSize = true;
-            this.m.Checked = true;
-            this.m.Location = new System.Drawing.Point(6, 19);
+            this.m.Location = new System.Drawing.Point(17, 21);
             this.m.Name = "m";
             this.m.Size = new System.Drawing.Size(34, 17);
             this.m.TabIndex = 3;
-            this.m.TabStop = true;
             this.m.Text = "M";
             this.m.UseVisualStyleBackColor = true;
             // 
             // f
             // 
             this.f.AutoSize = true;
-            this.f.Location = new System.Drawing.Point(53, 19);
+            this.f.Location = new System.Drawing.Point(68, 19);
             this.f.Name = "f";
             this.f.Size = new System.Drawing.Size(32, 17);
             this.f.TabIndex = 4;
@@ -149,7 +148,7 @@
             // 
             this.button1.Location = new System.Drawing.Point(12, 187);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(124, 23);
+            this.button1.Size = new System.Drawing.Size(71, 23);
             this.button1.TabIndex = 12;
             this.button1.Text = "Licz BMR";
             this.button1.UseVisualStyleBackColor = true;
@@ -161,7 +160,7 @@
             this.g.Controls.Add(this.f);
             this.g.Location = new System.Drawing.Point(12, 137);
             this.g.Name = "g";
-            this.g.Size = new System.Drawing.Size(87, 44);
+            this.g.Size = new System.Drawing.Size(118, 44);
             this.g.TabIndex = 13;
             this.g.TabStop = false;
             this.g.Text = "Płeć";
@@ -175,11 +174,22 @@
             this.result.TabIndex = 14;
             this.result.TextChanged += new System.EventHandler(this.result_TextChanged);
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(90, 187);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(46, 23);
+            this.button2.TabIndex = 15;
+            this.button2.Text = "Czyść";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(142, 245);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.result);
             this.Controls.Add(this.g);
             this.Controls.Add(this.button1);
@@ -217,6 +227,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.GroupBox g;
         private System.Windows.Forms.TextBox result;
+        private System.Windows.Forms.Button button2;
     }
 }
 

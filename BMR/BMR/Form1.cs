@@ -38,8 +38,8 @@ namespace BMR
             double height;
             double age;
 
-            Double.TryParse(m.Text, out mass);
-            Double.TryParse(w.Text, out height);
+            Double.TryParse(w.Text, out mass);
+            Double.TryParse(h.Text, out height);
             Double.TryParse(a.Text, out age);
 
             {
@@ -56,6 +56,17 @@ namespace BMR
         private void result_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            const string V = "";
+            w.Text = V;
+            h.Text = V;
+            a.Text = V;
+            result.Text = V;
+            f.Checked = false;
+            m.Checked = false;
         }
     }
 }
