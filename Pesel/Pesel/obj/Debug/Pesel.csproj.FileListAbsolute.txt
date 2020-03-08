@@ -1,0 +1,9 @@
+C:\Users\Stacja\Documents\Jerry\Projekt1\Pesel\Pesel\bin\Debug\Pesel.exe.config
+C:\Users\Stacja\Documents\Jerry\Projekt1\Pesel\Pesel\bin\Debug\Pesel.exe
+C:\Users\Stacja\Documents\Jerry\Projekt1\Pesel\Pesel\bin\Debug\Pesel.pdb
+C:\Users\Stacja\Documents\Jerry\Projekt1\Pesel\Pesel\obj\Debug\Pesel.csprojAssemblyReference.cache
+C:\Users\Stacja\Documents\Jerry\Projekt1\Pesel\Pesel\obj\Debug\Pesel.Form1.resources
+C:\Users\Stacja\Documents\Jerry\Projekt1\Pesel\Pesel\obj\Debug\Pesel.Properties.Resources.resources
+C:\Users\Stacja\Documents\Jerry\Projekt1\Pesel\Pesel\obj\Debug\Pesel.csproj.GenerateResource.cache
+C:\Users\Stacja\Documents\Jerry\Projekt1\Pesel\Pesel\obj\Debug\Pesel.exe
+C:\Users\Stacja\Documents\Jerry\Projekt1\Pesel\Pesel\obj\Debug\Pesel.pdb
